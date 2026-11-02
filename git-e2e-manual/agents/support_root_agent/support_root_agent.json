@@ -3,6 +3,5 @@
   "description": "Main customer support routing agent.",
   "instruction": "agents/support_root_agent/instruction.txt",
   "childAgents": [
-    "billing_sub_agent"
   ]
 }
