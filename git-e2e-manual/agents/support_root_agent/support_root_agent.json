@@ -3,5 +3,6 @@
   "description": "Main customer support routing agent.",
   "instruction": "agents/support_root_agent/instruction.txt",
   "childAgents": [
+    "New agent 2026-11-17-211235"
   ]
 }
